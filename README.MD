@@ -2,11 +2,21 @@
 
 ## インストール方法
 
-git cloneを行う
+1. git cloneを行う
 
 ```
 git clone https://github.com/meltedsoysouce/F2MatricCalclator.git
 ```
+
+2. 必要なモジュールをインストールする
+
+クローンしたディレクトリに移動後に、
+
+```
+pip install -r requirements.txt
+```
+
+を実行する
 
 ## 実行方法
 
