@@ -4,6 +4,10 @@
 
 git cloneを行う
 
+```
+git clone https://github.com/meltedsoysouce/F2MatricCalclator.git
+```
+
 ## 実行方法
 
 git cloneをしたディレクトリに移動したのち、
